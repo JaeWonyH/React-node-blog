@@ -1,5 +1,5 @@
 # React-node-blog
 
-###front - react
-###back - node.js(express)
-###database - mysql
+### front - react
+### back - node.js(express)
+### database - mysql
